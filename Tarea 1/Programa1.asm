@@ -1,4 +1,5 @@
 .data
+	#Primer programa que muestra un mensaje
 	msg: .asciiz "Primer programa en MIPS"
 .text
 	main:

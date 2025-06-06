@@ -1,4 +1,5 @@
 .data
+	#Programa que muestra una entrada de teclado
 	m1: .asciiz "Ingrese un numero :D ==> "
 	m2: .asciiz "Gracias por su "
 
